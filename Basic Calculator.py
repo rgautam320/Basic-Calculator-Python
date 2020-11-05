@@ -1,4 +1,4 @@
-# Basic Calculator using TkInter
+# Basic Calculator using Basic Calculator
 
 # Importing required libraries
 from tkinter import *
